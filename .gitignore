@@ -1,0 +1,18 @@
+# Build
+bin/
+obj/
+
+# Configurações locais do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pasta de dados gerados pelo programa
+data/
