@@ -22,4 +22,4 @@ Arthur Martins (06012635)
 Descrição:
 Aplicativo console em C# (.NET 9) para controle de empréstimos de jogos de tabuleiro.
 
-
+https://youtu.be/i_L4d0XQKF0
